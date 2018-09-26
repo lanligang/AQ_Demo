@@ -1,0 +1,38 @@
+PODS:
+  - CLPlayer (1.1.1):
+    - Masonry
+  - iosMath (0.9.4)
+  - Masonry (1.0.2)
+  - SwipeTableView (0.2.6)
+  - UITableView+FDTemplateLayoutCell (1.6)
+  - UMCAnalytics (5.5.0):
+    - UMCCommon
+  - UMCCommon (1.5.0)
+  - UMCSecurityPlugins (1.0.6)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - CLPlayer
+  - iosMath
+  - Masonry (~> 1.0.2)
+  - SwipeTableView
+  - UITableView+FDTemplateLayoutCell (~> 1.6)
+  - UMCAnalytics
+  - UMCCommon
+  - UMCSecurityPlugins
+  - YYText (~> 1.0.7)
+
+SPEC CHECKSUMS:
+  CLPlayer: 01be34f37a4bfef333c6b4ba33be81782576563e
+  iosMath: f7a6cbadf9d836d2149c2a84c435b1effc244cba
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SwipeTableView: 67d8a2e6e18bd38c188fd4fabda0b278eaa08d2f
+  UITableView+FDTemplateLayoutCell: 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  UMCAnalytics: 4667788559a72f2fa5077117d1b8802a3b6eb6bb
+  UMCCommon: 82d21f4bb9532a5472cc533bbd8ed48aff376a14
+  UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: b2315aa831735bfacf4e3b774bc69419e40b17d4
+
+COCOAPODS: 1.4.0
